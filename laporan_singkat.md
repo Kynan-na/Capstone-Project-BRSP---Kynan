@@ -75,5 +75,6 @@ Penurunan ekspresi yang tajam pada *hub genes* utama pengatur sinapsis—yaitu *
 
 ## 5. Daftar pustaka 
 
-- Luo J., Chen L., Huang X., Xie J., Zou C., Pan M., Mo J. and Zou D. (2022) REPS1 as a Potential Biomarker in Alzheimer’s Disease and Vascular Dementia. Front. Aging Neurosci. 14:894824. doi: 10.3389/fnagi.2022.894824
-- Aguzzoli Heberle, B., Fox, K. L., Lobraico Libermann, L., Ronchetti Martins Xavier, S., Tarnowski Dallarosa, G., Carolina Santos, R., Fardo, D. W., Wendt Viola, T., & Ebbert, M. T. W. (2025). Systematic review and meta-analysis of bulk RNAseq studies in human Alzheimer's disease brain tissue. Alzheimer's & dementia : the journal of the Alzheimer's Association, 21(3), e70025. https://doi.org/10.1002/alz.70025
+- Aguzzoli Heberle, B., Fox, K. L., Lobraico Libermann, L., Ronchetti Martins Xavier, S., Tarnowski Dallarosa, G., Carolina Santos, R., Fardo, D. W., Wendt Viola, T., & Ebbert, M. T. W. (2025). Systematic review and meta-analysis of bulk RNAseq studies in human Alzheimer's disease brain tissue. Alzheimer's & Dementia: The Journal of the Alzheimer's Association, 21(3), e70025. https://doi.org/10.1002/alz.70025
+
+- Luo, J., Chen, L., Huang, X., Xie, J., Zou, C., Pan, M., Mo, J., & Zou, D. (2022). REPS1 as a potential biomarker in Alzheimer’s disease and vascular dementia. Frontiers in Aging Neuroscience, 14, 894824. https://doi.org/10.3389/fnagi.2022.894824
