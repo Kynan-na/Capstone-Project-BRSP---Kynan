@@ -37,7 +37,7 @@ Analisis pengayaan *Gene Ontology* (GO) kategori *Biological Process* dan KEGG *
 Berdasarkan kriteria ketat (*Adjusted P-Value* < 0.05 dan |logFC| > 1), terdapat total 1.041 DEGs. Dari jumlah tersebut, sebanyak 380 gen mengalami *upregulation* (peningkatan ekspresi), dan 661 gen mengalami *downregulation* (penurunan ekspresi) pada pasien Alzheimer.
 Distribusi signifikansi dan lipatan perubahan ekspresi (*fold change*) secara global divisualisasikan melalui *Volcano Plot* (Gambar 3.1.1). Pemisahan profil transkriptomik yang sangat kontras antara kelompok AD dan kontrol juga terlihat jelas pada *Heatmap* dari 50 gen paling signifikan (Gambar 3.1.2), yang menunjukkan pola *clustering* yang membedakan keadaan patologis dan fisiologis normal secara tegas.
 
-![Volcano Plot](Volcano_plot_Capstone.jpg)
+![Volcano Plot](Volcano_Plot_Capstone.jpg)
 
 **Interpretasi:** Pada *Volcano plot* di atas, titik-titik yang berada di sisi kanan atas (*logFC* positif yang tinggi dan *p-value* signifikan) merepresentasikan gen-gen yang mengalami *upregulation* pada jaringan pengidap AD. Sebaliknya, titik-titik di sisi kiri atas merepresentasikan gen-gen yang mengalami *downregulation*. Gen-gen ini merupakan kandidat biomarker yang potensial membedakan kondisi normal dan AD.
 
