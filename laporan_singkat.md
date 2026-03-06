@@ -49,7 +49,7 @@ Distribusi signifikansi dan lipatan perubahan ekspresi (*fold change*) secara gl
 ### 3.2. Pengayaan Gene Ontology (GO) dan KEGG Pathway
 Untuk mengidentifikasi proses biologis yang paling terpengaruh oleh gen-gen diferensial tersebut, dilakukan analisis pengayaan *Gene Ontology* kategori *Biological Process* (BP). Hasil analisis menunjukkan bahwa DEGs secara signifikan diperkaya pada proses-proses yang berkaitan dengan *signal release, positive regulation of secretion*, dan *adenylate cylase modulating G protein-coupled receptor signaling pathway*. 
 
-![Barplot GO](Barplot_GO_Capstone.jpg)
+![Dotplot GO](Dotplot_GO_Capstone.jpg)
 
 Analisis KEGG *Pathway* semakin mengonfirmasi temuan ini, di mana gen-gen signifikan terpetakan pada jalur metabolisme kunci seperti *Neuroactive ligand signaling*, dan *neuroactive ligand-receptor interaction*. Disregulasi pada jalur-jalur ini sejalan dengan karakteristik neurodegenerasi klinis yang dialami pasien.
 
