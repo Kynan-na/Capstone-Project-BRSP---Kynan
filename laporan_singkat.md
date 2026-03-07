@@ -1,4 +1,4 @@
-# Laporan Singkat: Analisis Transcriptomics dan Pengayaan Jalur Biologis pada Pasien Alzheimer's Disease
+# Analisis Transcriptomics dan Pengayaan Jalur Biologis pada Pasien Alzheimer's Disease
 
 ## 1. Pendahuluan
 
